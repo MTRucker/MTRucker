@@ -9,6 +9,8 @@
 
 and that's pretty much it. I don't really use social media.
 
+This GitHub page is pretty barren, but I've worked on an "Image Search Engine" akin to Google's as part of a team project in Uni and I've developed a video game (uploaded on itch.io) with some colleagues, also as part of a course on game development in University, but those are privated/not my repositories, so the only available one is that of my Bachelor's Thesis.
+
 <!---
 MTRucker/MTRucker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
