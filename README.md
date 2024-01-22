@@ -6,6 +6,7 @@
   - Discord : MotherTrucker#9540
   - Email : luka.vibovec@gmail.com
   - LinkedIn : www.linkedin.com/in/luka-vibovec-81347a294
+
 and that's pretty much it. I don't really use social media.
 
 <!---
