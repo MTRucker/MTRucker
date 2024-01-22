@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MTRucker also known as Luka
-- 👀 I’m interested in mainly games of all kinds and programming. Quite new to all of this, and I've recently graduated in Mediainformatics from the University of Tübingen.
+- 👀 I’m interested in mainly games of all kinds and programming. Quite new to all of this, and I've recently graduated in Media Informatics from the University of Tübingen.
 - 🌱 I've written my Bachelor's Thesis in (so my highest proffiency is with) Python, but I also know C++, Java, MATLAB.
 - 💞️ I’m looking to collaborate on nothing currently, I've yet to devise any projects that I might want to pull other people into.
 - 📫 How to reach me :
