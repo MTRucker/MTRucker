@@ -3,7 +3,7 @@
 - 🌱 I've written my Bachelor's Thesis in (so my highest proffiency is with) Python, but I also know C++, Java, MATLAB.
 - 💞️ I’m looking to collaborate on nothing currently, I've yet to devise any projects that I might want to pull other people into.
 - 📫 How to reach me :
-  - Discord : MotherTrucker#9540
+  - Discord : mtrucker
   - Email : luka.vibovec@gmail.com
   - LinkedIn : www.linkedin.com/in/luka-vibovec-81347a294
 
